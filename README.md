@@ -1,4 +1,19 @@
+<h1 align="center">Hi 👋, I'm Ali Zeeshan</h1>
+<h3 align="center">A passionate ML Engineer from Pakistan</h3>
 
+- 🔭 I’m currently working on [Performance Analysis of CR-NOMA backscatter communication using Deep Reinforcement Learning](nust.edu.pk)
+
+- 🌱 I’m currently learning **DDPG,Amazon Sage Maker**
+
+- 👨‍💻 All of my projects are available at [alizeeshan-07.github.io](alizeeshan-07.github.io)
+
+- 📝 I regularly write articles on [medium.com](medium.com)
+
+- 💬 Ask me about **Python,ML, DL etc**
+
+- 📫 How to reach me **hmalizeeshan@gmail.com**
+
+- 📄 Know about my experiences [overleaf.com](overleaf.com)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-zeeshan-49596660/) 
 
