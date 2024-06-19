@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Zeeshan</h1>
-<h3 align="center">A passionate ML Engineer from Pakistan</h3>
+<h3 align="center">A passionate Generative AI Integration Expert</h3>
 
 <!-- - 🔭 I’m currently working on [Performance Analysis of CR-NOMA backscatter communication using Deep Reinforcement Learning](nust.edu.pk)
 
