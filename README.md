@@ -1,6 +1,6 @@
 # Ali Zeeshan
 
-**PhD Candidate @ NUST · Head of AI @ Adept Tech Solutions · Independent AI Consultant**
+**Head of AI @ Adept Tech Solutions · Agentic AI, Optimization Agents, LLMs & Fine-tuning · Independent AI Consultant**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zeeshan-49596660/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/alizeeshan-07)
@@ -8,7 +8,7 @@
 
 I build and study **closed-loop, AI-native systems** — where learning happens under hard physical, communication, energy, and cost budgets, and is backed by provable guarantees (Lyapunov stability, constraint satisfaction, sample complexity). Wireless-anchored, but not wireless-limited.
 
-- 🔭 Currently: **DRL for CR-NOMA backscatter communication** (PhD @ NUST)
+- 🔭 Currently: **Agentic AI systems, agents for optimization, and LLM fine-tuning** @ Adept Tech Solutions · DRL for CR-NOMA backscatter communication (PhD @ NUST)
 
 ## 🔬 Research focus
 - **Agentic RL** — training LLM agents (RLVR, process reward models, multi-turn credit assignment), not just prompting them
