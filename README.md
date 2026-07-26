@@ -3,6 +3,9 @@
 **Head of AI @ Adept Tech Solutions · Agentic AI, Optimization Agents, LLMs & Fine-tuning · Independent AI Consultant**
 
 [![Website](https://img.shields.io/badge/Website-131718?style=flat&logo=hugo&logoColor=white)](https://alizeeshan-07.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=2T_o6-QAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1949-2044)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hafiz-Muhammad-Ali-Zeeshan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zeeshan-49596660/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/alizeeshan-07)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/alizeeshan)
