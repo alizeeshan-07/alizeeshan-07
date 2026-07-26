@@ -83,7 +83,7 @@ Every track ends in an artifact — a from-scratch reproduction, a benchmarked s
 
 Collaborations on guarantee-bearing learning systems (wireless, robotics, edge AI), reviewing for ML and communications venues, and conversations about safe autonomy in deployed systems.
 
-📫 **Reach me:** [alphaops@adept-techsolutions.com](mailto:alphaops@adept-techsolutions.com) · [Website](https://alizeeshan-07.github.io/) · [LinkedIn](https://www.linkedin.com/in/ali-zeeshan-49596660/) · [Hugging Face](https://huggingface.co/alizeeshan-07)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ali-zeeshan-49596660/)
 
 ---
 
