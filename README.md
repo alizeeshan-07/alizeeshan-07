@@ -31,7 +31,7 @@ In short: **the learning does the optimizing, the mathematics does the promising
 | Theme | What I work on |
 |---|---|
 | 🤖 **Agentic AI & reasoning models** | Training LLM agents (RL fine-tuning, RLVR, process reward models, tool use) rather than only prompting them; inference-time compute allocation — when to think, how long, on which model |
-| 🎯 **Agents for optimization** | LLM strategists above learned controllers, token-budgeted decision making, cost-aware routing and cascades as budgeted MDPs |
+| 🎯 **Agents for optimization** | LLM agents that plan and adapt over optimization and control loops; budget- and cost-aware decision making, routing, and cascades |
 | 🛡️ **Safe & verifiable autonomy** | CMDPs, Lyapunov/ISS stability, control barrier functions & safety filters, conformal guarantees for learned controllers and LLM agents |
 | 📡 **AI-native 6G / AI-RAN** | DRL/MARL schedulers, LLM intent layers, digital-twin-in-the-loop network control (3GPP Rel-20/21, IMT-2030 window) |
 | ⚡ **Edge AI & efficient inference** | Device–edge–cloud cascades and escalation, quantized small models, system-level efficiency (budgets, caching, energy) |
@@ -60,11 +60,12 @@ In short: **the learning does the optimizing, the mathematics does the promising
 
 ---
 
-## 📄 Selected work
+## 📄 Work in progress
 
-- **Coupled Composite Barrier (CCB)** — safety-constrained trajectory optimization for UAV-ISAC systems. Heterogeneous constraints (radar detection probability, CRB localization accuracy, no-fly zones) are aggregated into a single smooth barrier via softmin and enforced by a QP that minimally modifies deep-RL actions at deployment time. *(venue & link coming)*
-- **TwinLoopLLM** — closed-loop digital-twin RAN scheduling: a token-budgeted LLM strategist over cooperative MARL schedulers, with intent-as-observation, two-timescale stability under bounded intent staleness, and a CMDP-optimal query rate. *(venue & link coming)*
-- *(more coming — watch this space)*
+Manuscripts under review — I'll add titles and links once they land:
+
+- **Safe autonomy for aerial and sensing systems** — guarantee-bearing learned control
+- **LLM-guided network control in a digital-twin loop** — learned scheduling with stability analysis
 
 ---
 
