@@ -1,4 +1,4 @@
-# Hi, I'm Ali Zeeshan 👋
+# Ali Zeeshan
 
 **Head of AI @ Adept Tech Solutions · Agentic AI, Optimization Agents, LLMs & Fine-tuning · Independent AI Consultant**
 
