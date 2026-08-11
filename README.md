@@ -6,7 +6,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=2T_o6-QAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1949-2044)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hafiz-Muhammad-Ali-Zeeshan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-zeeshan-49596660/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizeeshan07/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/alizeeshan-07)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/alizeeshan)
 
@@ -86,7 +86,7 @@ Every track ends in an artifact — a from-scratch reproduction, a benchmarked s
 
 Collaborations on guarantee-bearing learning systems (wireless, robotics, edge AI), reviewing for ML and communications venues, and conversations about safe autonomy in deployed systems.
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ali-zeeshan-49596660/)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/alizeeshan07/)
 
 ---
 
